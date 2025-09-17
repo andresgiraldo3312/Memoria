@@ -1,3 +1,7 @@
+#ifndef CARTA_H 
+#define CARTA_H
+
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
@@ -38,3 +42,4 @@ class Carta{
         bool operator==(const Carta& otro);
 };
 
+#endif
