@@ -2,12 +2,17 @@
 
 En este repositorio podra encontrar el codigo fuente del popular juego memoria
 
+# Instruciones
 
-## Instruciones de compilacion
+## Juego
+
+
+
+## Compilacion
 
 ```g++ main.cpp Tablero.cpp Jugador.cpp Carta.cpp -o Memoria ``` 
 
-## Instruciones de ejecución
+## Ejecución
 
 ```./Memoria ``` 
 
