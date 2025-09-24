@@ -21,3 +21,4 @@ En este repositorio podra encontrar el codigo fuente del popular juego memoria
 
 ```./Memoria ``` 
 
+[Wiki](https://github.com/andresgiraldo3312/Memoria/wiki)
