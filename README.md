@@ -6,6 +6,10 @@ En este repositorio podra encontrar el codigo fuente del popular juego memoria
 # Instruciones
 
 ## Juego
+* item 1
+* item 2
+* item 2
+* item 2
 
 
 
